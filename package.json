@@ -2,12 +2,10 @@
   "name": "iobroker.panasonic-viera",
   "version": "2.1.0",
   "description": "ioBroker Panasonic Viera Smart-TV Adapter",
-  "author": {
-    "name": "ldittmar",
-    "email": "iobroker@lmdsoft.de"
-  },
+  "author": "ldittmar <iobroker@lmdsoft.de>",
   "contributors": [
-    "Jens Maus <mail@jens-maus.de>"
+    "Jens Maus <mail@jens-maus.de>",
+    "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
   ],
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.panasonic-viera",
   "license": "MIT",
